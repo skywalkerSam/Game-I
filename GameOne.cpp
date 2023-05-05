@@ -1,6 +1,6 @@
  /*
-    Developer: Master Skywalker
-    Purpose: Project-GameOne
+    Developer: @skywalkerSam
+    Purpose: Game-I
     Stardate: 12021.255.19:45:00
 */
 
